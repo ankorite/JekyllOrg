@@ -8,7 +8,7 @@
 # Site settings
 title: JekyllOrg
 description: a free Jekyll theme for organizations and non-profits
-#baseurl: "/JekyllOrg" # the subpath of your site, e.g. /blog
+baseurl: "/JekyllOrg" # the subpath of your site, e.g. /blog
 url: "https://ankorite.github.io" # the base hostname & protocol for your site
 
 # Profiles
@@ -66,7 +66,7 @@ collections:
 
 # Prose
 prose:
-  siteurl: 'https://damianeoloan.github.io/jekyllorg'
+  siteurl: 'https://ankorite.github.io/jekyllorg'
   media: 'images'
   ignore:
     - /_layouts
